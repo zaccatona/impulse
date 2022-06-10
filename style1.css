@@ -3,7 +3,7 @@ Bordeaux #6b1818
 Chiaro #f70505
 
 
-h2,h3 {
+h2,h3,h4 {
   text-align: center;
   font-family: Orbitron;
   color: white !important;
@@ -20,7 +20,7 @@ body{
 
 h5,p{
   color: white !important;
-  font-family: Spectral:wght@300;
+  font-family: Cairo:wght@300 !important;
   
 }
 

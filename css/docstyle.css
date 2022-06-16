@@ -2,8 +2,7 @@ body{
 	background-color: #6b1818;
   
 }
-footer{background-color: #e3d8d8;
-}
+
 main{
 	border: 7px solid;
 	border-color: white;
@@ -81,9 +80,6 @@ line-height: 2;}
 li {line-height: 2;
 }
 
-.credit{
-  color: black !important;
-}
 #doc{
   position: relative;
   border: 3px solid;
